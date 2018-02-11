@@ -1,4 +1,7 @@
 # 语音实时对话机器人
+ **简介：** 
+
+结合百度语音识别，图灵机器人和百度语音合成实现的实时对话机器人，相较[第一版树莓派实时对话机器人](http://blog.csdn.net/lingdongtianxia/article/details/54799306)反应速度，使用体验有很大提升。现在这个机器人支持搜索图片、火车票、新闻和菜谱等。具体功能详见图灵官网。
 
  **文件结构:** 
 ```
@@ -14,6 +17,8 @@
  **链接：** 
 
 [百度云登录](https://login.bce.baidu.com/)
+
+[图灵机器人官网](http://www.tuling123.com/)
 
 [ffmpeg.exe下载](http://download.csdn.net/download/lingdongtianxia/10249402)
 
