@@ -122,4 +122,5 @@ while True:
         mp3_to_wav('audio/machine.mp3', 'audio/machine.wav')
         #播放machine.wav
         play_wav('audio/machine.wav')
-        time.sleep(0.1)  #避免扬声器余声干扰麦克风造成误触发，此处延时不影响使用体验
+        #避免扬声器余声干扰麦克风造成误触发，此处延时不影响使用体验
+        time.sleep(0.1) 
