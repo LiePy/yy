@@ -22,6 +22,8 @@
 
 [ffmpeg.exe下载](http://download.csdn.net/download/lingdongtianxia/10249402)
 
+[pygame文档](http://pygame.org/docs/)
+
  **环境及安装方法：**
 ```
 版本：
