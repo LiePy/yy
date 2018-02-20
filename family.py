@@ -5,6 +5,7 @@ import pyaudio
 import wave
 import numpy as np
 from pydub import AudioSegment
+import pygame
 import time
 import webbrowser
 class Family():
@@ -182,6 +183,7 @@ class Family():
                     time.sleep(0.1)
                     self.starttime = time.time()
     def run(self):
+        self.login()
         while True:
             self.listening()
             self.working()
