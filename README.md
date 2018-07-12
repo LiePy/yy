@@ -33,6 +33,6 @@
 相关库：
     pydub 安装方法 pip install pydub
     aip   安装方法 pip install baidu-aip
-    别的库自己缺什么pip install什么吧，Linux别忘了权限问题
+    别的库自己缺什么pip install什么吧，Linux别忘了权限问题 
 ```
 
