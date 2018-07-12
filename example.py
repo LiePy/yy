@@ -9,4 +9,4 @@ vol：音量，取值0-15，默认为5中音量
 listen_time：从唤醒开始保持唤醒的时间，默认为5
 '''
 from family import Family
-Family(name=['二蛋'],per=4,speed=4,pit=7,vol=1,listen_time=10).run()#['小呆','待','小丹','消灾']
+Family(name=['丫丫','呀呀','压压','雅雅','哎呀','呀','颜颜','人家','一一','那样','那家','杨洋','天涯'],per=4,speed=3,pit=0,vol=10,listen_time=10).run()
